@@ -53,26 +53,26 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Arian, a junior data scientist. I am mainly interested in utilizing data science to address business problems. I have work on various machine learning problems, and I'm experienced with essential machine learning tools such as TensorFlow, Keras, PyTorch, and Scikit-Learn. You can check out my full resume <a href="https://www.dropbox.com/s/1k36rv35par54tv/Resume.pdf?dl=0"> <mark>here</mark> </a>. 
+  Hi, I'm Arian, a junior data scientist. I am mainly interested in utilizing data science to address business problems. I have worked on various machine learning problems, and I'm experienced with essential machine learning tools such as TensorFlow, Keras, PyTorch, and Scikit-Learn. You can check out my full resume <a href="https://www.dropbox.com/s/1k36rv35par54tv/Resume.pdf?dl=0"> <mark>here</mark> </a>. 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Deep Reinforcement Learning-Based Caching Strategy for Caching Data 
+        title: A Deep Reinforcement Learning-Based CachingStrategy For IoT Networks With Transient Data
         link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project, which led to a couple of publications, was my thesis topic during the M.Sc studies. I have deployed a couple of DRL algorithms such as A2C and PPO to address the caching problem in IoT networks where files have a limited lifetime. We improved the cache hit rate and energy consumption of the network significantly. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
