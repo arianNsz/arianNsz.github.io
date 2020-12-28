@@ -50,8 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Arian and I'm a junior data scientist. I have work on various machine learning problems, and I'm experienced with major machine learning tools such as TensorFlow, Keras, pyTorch, Scikit-Learn, etc.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  You can check out my resume [<mark>here</mark>] 
+(https://www.dropbox.com/s/1k36rv35par54tv/Resume.pdf?dl=0) 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,9 +90,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: York University
+        caption: 2019 - 2021
+        sub_title: M.Sc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
