@@ -17,7 +17,6 @@ darkmode: false
 # Social links
 twitter_username: arianNsz
 github_username:  arianNsz
-kaggle_username: ariannsz
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -32,9 +31,14 @@ linkedin_username: arian-naseh
 
 # Additional icon links
 #additional_links:
-#- title: itsgoingto.be
+#- title: itsgoingto.be 
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
+additional_links:
+- title: Kaggle
+  icon: fab fa-kaggle
+  url: https://www.kaggle.com/ariannsz
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
