@@ -46,7 +46,7 @@ linkedin_username: arian-naseh
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Arian and I'm a junior data scientist. I have work on various machine learning problems, and I'm experienced with major machine learning tools such as TensorFlow, Keras, pyTorch, Scikit-Learn, etc.
 
