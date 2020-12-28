@@ -60,7 +60,7 @@ content:
     content:
       - layout: top-middle
         title: A Deep Reinforcement Learning-Based CachingStrategy For IoT Networks With Transient Data
-        link: 
+        # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -72,6 +72,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          
           This project, which led to a couple of publications, was my thesis topic during the M.Sc studies. I have deployed a couple of DRL algorithms such as A2C and PPO to address the caching problem in IoT networks where files have a limited lifetime. We improved the cache hit rate and energy consumption of the network significantly. 
 
   - title: Experience # Title for the section
