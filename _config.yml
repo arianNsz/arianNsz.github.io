@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: A Deep Reinforcement Learning-Based CachingStrategy For IoT Networks With Transient Data
+        title: A Deep Reinforcement Learning-Based Caching Strategy For IoT Networks With Transient Data
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
