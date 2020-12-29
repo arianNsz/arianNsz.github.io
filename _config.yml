@@ -125,9 +125,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data science and machine learning, I often find myself busy with one of the followings in my free time:
-      - Investment (I love this one!)
+      - Doing some small investments and following business news (I love this one!)
       - Gaming
-      - Binge-watching Netflix or Binge-listening a podcast 
+      - Binge-watching Netflix
+      - Binge-listening a podcast 
 
 #       Look at this cool image  
 #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
