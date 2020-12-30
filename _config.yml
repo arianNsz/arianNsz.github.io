@@ -38,6 +38,9 @@ additional_links:
 - title: Kaggle
   icon: fab fa-kaggle
   url: https://www.kaggle.com/ariannsz
+- title: Google Scholar
+  icon: fas fa-graduation-cap
+  url: https://scholar.google.com/citations?hl=en&user=smpsVvcAAAAJ
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
