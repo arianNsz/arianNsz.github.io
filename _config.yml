@@ -56,7 +56,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Arian, a junior data scientist. I am mainly interested in utilizing data science to address business problems. I have worked on various machine learning problems, and I'm experienced with essential machine learning tools such as TensorFlow, Keras, PyTorch, and Scikit-Learn. You can check out my full resume <a href="https://www.dropbox.com/s/1k36rv35par54tv/Resume.pdf?dl=0"> <mark>here</mark> </a>. 
+  Hi, I'm Arian, a junior data scientist. I am mainly interested in utilizing data science to address business problems. I have worked on various machine learning problems, and I'm experienced with essential machine learning tools such as TensorFlow, Keras, PyTorch, and Scikit-Learn. You can check out my full resume <a href="https://www.dropbox.com/s/ysneorpvm99nv96/Arian%20Naseh%20Resume.pdf?dl=0"> <mark>here</mark> </a>. 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
