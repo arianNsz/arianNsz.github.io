@@ -158,11 +158,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      * I love watching dog videos! Cats are fine too :D
-      * I enjoy playing video games from time to time, I especially like playing Fifa for short breaks
-      * I'm a bit too much into coffee! I love trying new coffee shops and brewing methods
-      * I'm currently living in downtown Toronto, and I love the long walks on sunny days.
-      * I hate camping, and I don't understand why would I want to sleep in the woods when our ancestors worked so hard to build cities and houses! :D
+      * I love watching dog videos! Cats are fine too. :D
+      * I enjoy playing video games from time to time, especially FIFA during short breaks.
+      * I'm a bit too much into coffee! I love exploring new coffee shops and experimenting with different brewing methods.
+      * I currently live in downtown Toronto and enjoy long walks on sunny days.
+      * I'm not a fan of camping. I often joke about why we'd sleep in the woods when our ancestors worked so hard to build cities and houses! :D
 
 #       Look at this cool image
 #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
