@@ -56,10 +56,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2024.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Arian, and I'm obsessed with turning complex data into awesome machine learning solutions. With four years of experience in finance and advertising under my belt, I've got a knack for building predictive models, wrangling data pipelines, and playing with the latest LLM magic. From my earlier adventures in IoT and deep reinforcement learning research to real-world projects in risk management, productivity tools, and ad targeting, I love the challenge of bringing ML ideas to life. Want to see what I've been up to? Check out my portfolio, Medium articles, or LinkedIn profile.
-  
-  If you're building cool stuff with data, let's connect - you can find me on LinkedIn or shoot me an email at a.nasehzade@gmail.com!
-  
+  Hi! I'm Arian, passionate about transforming complex data into impactful machine learning solutions. With four years of experience in finance and advertising, I specialize in building predictive models, managing data pipelines, and experimenting with cutting-edge LLM technologies. My journey has taken me from deep reinforcement learning research and IoT projects to practical applications in risk management, productivity tools, and targeted advertising.
+
+  I thrive on the challenge of bringing innovative ML ideas to life. Curious about my work? Explore my portfolio, check out my articles on Medium, or connect with me on LinkedIn.
+
+  If you're working on something exciting in the realm of data, I'd love to collaborate. Reach out on LinkedIn or email me at a.nasehzade@gmail.com!
+
   Cheers!
 content:
   # - title: Projects # Title for the section
