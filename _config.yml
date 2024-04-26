@@ -86,16 +86,16 @@ content:
     content:
       - layout: left
         title: Data Scientist
-        link: nbfc.com/
+        link: nbfc.com
         # link_text: boringcompany.com
         sub_title: Northbridge Financial Corporation
         caption: May. 2022 - Present
         description: | # this will include new lines to allow paragraphs
-          At North Bridge, I've tackled a couple of big projects and a few smaller ones in between. I led the revamp of our Auto Insurance Risk Management system using XGBoost models to predict vehicle losses, which saves us over $1M a year. I also got our Smart Staffing models to predict workloads, helping us move our staff efficiently—think big savings in time and money!
-          On the side, I've played around with everything from building a monitoring module for another model, to crafting an email parser, and even piecing together a proof of concept for a really cool LLM RAG-based project. Although we didn't move forward with the LLM due to its complexity in production, it was a great dive into what's possible.
+          * Working alongside experience developers tought me a lot about how to think, and design prodcuts.
+          * Managing stakeholders and communication and getting their approvals was also a big part of my job, which was also new to me.
+          * From a technical prespective, I get to work with a lot of new technologies and tools mostly on the Azure cloud platform.
+          * I had the chance to developed ETL and inference pipelines in the Azure Machine Learning platform, creat LLM-based applications, and a lot of other cool stuff.
           
-          Working here has not only sharpened my model-building skills but also deepened my experience with the Azure cloud platform. I've had the chance to develop everything from data pipelines for fetching, transforming, and storing data, to setting up scheduled batch scoring jobs on the Azure ML platform. It's been a fantastic playground for applying and expanding my data science toolkit!
-            
 
       - layout: left
         title: Software Developer
