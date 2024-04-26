@@ -62,36 +62,36 @@ about_content: | # this will include new lines to allow paragraphs
   
   Cheers!
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: A Deep Reinforcement Learning-Based Caching Strategy For IoT Networks With Transient Data
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          #TensorFlow   #Keras   #StableBaseline   #DRL   #openai #gym    #A2C #PPO   #numpy   #pandas   #matplotlib
-        description: | # this will include new lines to allow paragraphs
-          This project, which led to a couple of publications, was my master's thesis project. I have deployed a couple of DRL algorithms such as A2C and PPO to address the caching problem in IoT networks where files have a limited lifetime. We improved the cache hit rate and energy consumption of the network significantly.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: A Deep Reinforcement Learning-Based Caching Strategy For IoT Networks With Transient Data
+  #       # link: github.com/sproogen
+  #       # link_text: Project Website
+  #       # additional_links:
+  #       #   - title:  sproogen/modern-resume-theme
+  #       #     icon: fab fa-github
+  #       #     url: github.com/sproogen/modern-resume-theme
+  #       # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #       #   icon: fab fa-github
+  #       #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         #TensorFlow   #Keras   #StableBaseline   #DRL   #openai #gym    #A2C #PPO   #numpy   #pandas   #matplotlib
+  #       description: | # this will include new lines to allow paragraphs
+  #         This project, which led to a couple of publications, was my master's thesis project. I have deployed a couple of DRL algorithms such as A2C and PPO to address the caching problem in IoT networks where files have a limited lifetime. We improved the cache hit rate and energy consumption of the network significantly.
 
   - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Research and Teaching Assitant
-        # link: boringcompany.com
+        title: Data Scientist
+        link: https://www.nbfc.com/
         # link_text: boringcompany.com
-        sub_title: York University
-        caption: Sep. 2019 - Present
+        sub_title: Northbridge Financial Corporation
+        caption: May. 2022 - Present
         description: | # this will include new lines to allow paragraphs
-          Aside from the thesis project (mentioned above), I was the teaching assistant for multiple courses. I helped students to develop and debug Android applications using Java and XML for one semester. I also taught MATLAB programming and helped students with code debugging for another class.
+          
 
       - layout: left
         title: Researcher
@@ -100,7 +100,9 @@ content:
         sub_title: York University
         caption: Jan. 2019 - Sep. 2019
         description: | # this will include new lines to allow paragraphs
-          Before starting the M.Sc program, I had a research contract with my supervisor, Dr. Ping Wang. Since she hadn't had any grad student at York University until then, we needed to develop a research road map for the team she was recruiting at the time. We find credible resources to study DRL. After doing an extensive literature review, we found a couple of interesting problems that we thought DRL could effectively address, such as caching in computer networks and routing in unmanned aerial vehicles (UAV) networks. We also briefly studied federated learning and its use cases, which later became the research area for our other group members.
+          At North Bridge, I've tackled a couple of big projects and a few smaller ones in between. I led the revamp of our Auto Insurance Risk Management system using XGBoost models to predict vehicle losses, which saves us over $1M a year. I also got our Smart Staffing models to predict workloads, helping us move our staff efficiently—think big savings in time and money!
+          On the side, I've played around with everything from building a monitoring module for another model, to crafting an email parser, and even piecing together a proof of concept for a really cool LLM RAG-based project. Although we didn't move forward with the LLM due to its complexity in production, it was a great dive into what's possible.
+          Working here has not only sharpened my model-building skills but also deepened my experience with the Azure cloud platform. I've had the chance to develop everything from data pipelines for fetching, transforming, and storing data, to setting up scheduled batch scoring jobs on the Azure ML platform. It's been a fantastic playground for applying and expanding my data science toolkit!
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
