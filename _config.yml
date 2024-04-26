@@ -91,10 +91,10 @@ content:
         sub_title: Northbridge Financial Corporation
         caption: May. 2022 - Present
         description: | # this will include new lines to allow paragraphs
-          * Working alongside experience developers tought me a lot about how to think, and design prodcuts.
-          * Managing stakeholders and communication and getting their approvals was also a big part of my job, which was also new to me.
-          * From a technical prespective, I get to work with a lot of new technologies and tools mostly on the Azure cloud platform.
-          * I had the chance to developed ETL and inference pipelines in the Azure Machine Learning platform, creat LLM-based applications, and a lot of other cool stuff.
+          * Working alongside experienced developers taught me a lot about how to think and design products.
+          * Managing stakeholders, communicating, and securing their approvals was also a significant part of my job, which was new to me.
+          * From a technical perspective, I got to work with many new technologies and tools, mostly on the Azure cloud platform.
+          * I had the chance to develop ETL and inference pipelines on the Azure Machine Learning platform, create LLM-based applications, and a lot of other cool stuff.
           
 
       - layout: left
@@ -103,9 +103,9 @@ content:
         sub_title: Docma Inc.
         caption: Jun. 2023 - Jan. 2024
         description: | # this will include new lines to allow paragraphs
-          At Docma, I dove into the world of data-driven advertising, focusing mainly on backend stuff like developing endpoints to help refine targeted ad campaigns. My role was a mix of coding and problem-solving—I developed and tested various metrics, enhanced the execution speeds of our audience profiling algorithms, and even restructured our code repository to better support our data products.
-          
-          I also spent a good chunk of time debugging and designing experiments to ensure our profiling algorithms stayed sharp across different population segments. It was all about making sure our data tools were not only fast but also reliable and precise.
+          * At Docma, I primarily focused on backend development, creating endpoints to enhance targeted advertising campaigns.
+          * Beyond coding, I helped the team refine their code repository for better long-term maintenance and easier onboarding of new members.
+          * I also dedicated significant time to debugging and designing experiments, ensuring our profiling algorithms were effective across different population segments. The goal was to maintain our data tools' speed, reliability, and precision.
           
           
       - layout: left
@@ -114,19 +114,22 @@ content:
         sub_title: TicTie Labs.
         caption: Jun. 2021 - May. 2022
         description: | # this will include new lines to allow paragraphs
-          At TicTie Labs, I focused on blending agriculture with AI to make indoor farming smarter. I developed a predictive app using machine learning to estimate product yields under various environmental conditions—this helped our farm operators align production closely with customer demands.
+          * I had never imagined that my first official job would be in the intersection of Tech and indoor farming! 
+          * At TicTie Labs, I worked on developing a machine learning model to predict the growth of plants and help the operators meet their demand.
+          * I also developed dashboards to visualize the live monitoring data from the farms and to alert the operators of the out-of-range conditions.
+          * I also proposed and developed an andrpoid application to help the operators capture data without disrupting their work.
 
-          I also created environment monitoring dashboards, integrating Python, SQL, and Microsoft PowerBi to provide real-time reports on critical farm conditions like temperature, ensuring operators were alerted to any out-of-range parameters. Plus, I spearheaded the development of an Android app prototype designed to streamline data capture for farmers, fitting seamlessly into their daily routines without any fuss.
-          
+
       - layout: left
         title: Co-Founder
         # link: etfocean.com
         sub_title: ETF Ocean
         caption: Jan. 2021 - Jan. 2022
         description: | # this will include new lines to allow paragraphs
-          Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies. Our startup aimed to bridge the gap between complex investment models and everyday investors. In this role, I developed and implemented portfolio selection systems using Python, leveraging both technical and fundamental financial indicators. I also crafted python programs to verify portfolio back-tests' results and designed ETL pipelines to handle large-scale historical financial data accurately.
-          
-          On the database side, I managed a PostgreSQL database and a BigQuery data warehouse on Google Cloud Platform. I was also deeply involved in shaping our business model and spearheading our initial marketing campaigns.
+          * Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies. 
+          * I developed and implemented portfolio selection systems using Python, leveraging both technical and fundamental financial indicators. 
+          * I also developed the modules to verify portfolio back-tests' results and designed ETL pipelines to handle large-scale historical financial data accurately.
+          * I was also deeply involved in shaping our business model and spearheading our initial marketing campaigns.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
