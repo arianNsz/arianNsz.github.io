@@ -114,10 +114,10 @@ content:
         sub_title: TicTie Labs.
         caption: Jun. 2021 - May. 2022
         description: | # this will include new lines to allow paragraphs
-          * I had never imagined that my first official job would be in the intersection of Tech and indoor farming! 
-          * At TicTie Labs, I worked on developing a machine learning model to predict the growth of plants and help the operators meet their demand.
-          * I also developed dashboards to visualize the live monitoring data from the farms and to alert the operators of the out-of-range conditions.
-          * I also proposed and developed an andrpoid application to help the operators capture data without disrupting their work.
+          * I had never imagined that my first official job would be at the intersection of technology and indoor farming!
+          * At TicTie Labs, I developed a machine learning model to predict plant growth, aiding operators in meeting their demand efficiently.
+          * Additionally, I created dashboards to visualize live monitoring data from the farms and alert operators about conditions that were out of range.
+          * I also proposed and developed an Android application to help operators capture data seamlessly without disrupting their workflow.
 
 
       - layout: left
@@ -126,10 +126,10 @@ content:
         sub_title: ETF Ocean
         caption: Jan. 2021 - Jan. 2022
         description: | # this will include new lines to allow paragraphs
-          * Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies. 
-          * I developed and implemented portfolio selection systems using Python, leveraging both technical and fundamental financial indicators. 
-          * I also developed the modules to verify portfolio back-tests' results and designed ETL pipelines to handle large-scale historical financial data accurately.
-          * I was also deeply involved in shaping our business model and spearheading our initial marketing campaigns.
+          * Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies.
+          * I developed and implemented portfolio selection systems using Python, utilizing both technical and fundamental financial indicators.
+          * Additionally, I created modules to verify the accuracy of portfolio back-tests and designed ETL pipelines to manage large-scale historical financial data.
+          * I also played a key role in shaping our business model and leading our initial marketing campaigns.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
