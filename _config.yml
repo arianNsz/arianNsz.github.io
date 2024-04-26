@@ -122,7 +122,7 @@ content:
         title: Co-Founder
         # link: etfocean.com
         sub_title: ETF Ocean
-        caption: Jun. 2021 - May. 2022
+        caption: Jan. 2021 - Jan. 2022
         description: | # this will include new lines to allow paragraphs
           Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies. Our startup aimed to bridge the gap between complex investment models and everyday investors. In this role, I developed and implemented portfolio selection systems using Python, leveraging both technical and fundamental financial indicators. I also crafted python programs to verify portfolio back-tests' results and designed ETL pipelines to handle large-scale historical financial data accurately.
           
