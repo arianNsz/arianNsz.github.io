@@ -158,11 +158,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in data science and machine learning, I often find myself busy with one of the followings in my free time:
-      - Doing some small investments and following business news (I love this one!)
-      - Gaming
-      - Binge-watching Netflix
-      - Binge-listening a podcast
+      * I love watching dog videos! Cats are fine too :D
+      * I enjoy playing video games from time to time, I especially like playing Fifa for short breaks
+      * I'm a bit too much into coffee! I love trying new coffee shops and brewing methods
+      * I'm currently living in downtown Toronto, and I love the long walks on sunny days.
+      * I hate camping, and I don't understand why would I want to sleep in the woods when our ancestors worked so hard to build cities and houses! :D
 
 #       Look at this cool image
 #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
