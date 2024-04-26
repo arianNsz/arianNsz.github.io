@@ -118,15 +118,15 @@ content:
 
           I also created environment monitoring dashboards, integrating Python, SQL, and Microsoft PowerBi to provide real-time reports on critical farm conditions like temperature, ensuring operators were alerted to any out-of-range parameters. Plus, I spearheaded the development of an Android app prototype designed to streamline data capture for farmers, fitting seamlessly into their daily routines without any fuss.
           
-        - layout: left
-          title: Co-Founder
-          # link: etfocean.com
-          sub_title: ETF Ocean
-          caption: Jun. 2021 - May. 2022
-          description: | # this will include new lines to allow paragraphs
-            Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies. Our startup aimed to bridge the gap between complex investment models and everyday investors. In this role, I developed and implemented portfolio selection systems using Python, leveraging both technical and fundamental financial indicators. I also crafted python programs to verify portfolio back-tests' results and designed ETL pipelines to handle large-scale historical financial data accurately.
-
-            On the database side, I managed a PostgreSQL database and a BigQuery data warehouse on Google Cloud Platform. I was also deeply involved in shaping our business model and spearheading our initial marketing campaigns.
+      - layout: left
+        title: Co-Founder
+        # link: etfocean.com
+        sub_title: ETF Ocean
+        caption: Jun. 2021 - May. 2022
+        description: | # this will include new lines to allow paragraphs
+          Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies. Our startup aimed to bridge the gap between complex investment models and everyday investors. In this role, I developed and implemented portfolio selection systems using Python, leveraging both technical and fundamental financial indicators. I also crafted python programs to verify portfolio back-tests' results and designed ETL pipelines to handle large-scale historical financial data accurately.
+          
+          On the database side, I managed a PostgreSQL database and a BigQuery data warehouse on Google Cloud Platform. I was also deeply involved in shaping our business model and spearheading our initial marketing campaigns.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
