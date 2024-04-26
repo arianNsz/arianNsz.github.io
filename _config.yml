@@ -102,7 +102,9 @@ content:
       - layout: left
         title: Software Developer
         link: docma.ca
-        sub_title: Docma Inc.
+        sub_title: |
+          Part Time.
+          Docma Inc.
         caption: Jun. 2023 - Jan. 2024
         description: | # this will include new lines to allow paragraphs
           * At Docma, I primarily focused on backend development, creating endpoints to enhance targeted advertising campaigns.
