@@ -91,7 +91,7 @@ content:
         link: https://loan-approval-016b07cc77d7.herokuapp.com/
         # link_text: link to the app
         sub_title: A web app.
-        caption: Spring 2024
+        # caption: Spring 2024
         description: | # this will include new lines to allow paragraphs
           * Developed a XGBoost model to predict loan approval based on customer data.
           * Created a Streamlit app to allow users to input their data and interact with the model.
