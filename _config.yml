@@ -87,14 +87,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Loan Approval Web app
+        title: Loan Approval
         link: https://loan-approval-016b07cc77d7.herokuapp.com/
-        link_text: link to the app
-        sub_title: An streamlit app, with a trained XGBoost model to predict loan approval.
+        # link_text: link to the app
+        sub_title: A web app.
         caption: Spring 2024
         description: | # this will include new lines to allow paragraphs
-          * Deployment with containerization on Heroku.
-          * Streamlit app for the frontend and an XGBoost model to handle the prediction.
+          * Developed a XGBoost model to predict loan approval based on customer data.
+          * Created a Streamlit app to allow users to input their data and interact with the model.
+          * Containerized the app using Docker.
+          * Deployed the app on Heroku cloud platform (deployment through container registry).
+          * Pydantic was used for data validation and FastAPI for the backend.
 
   - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
