@@ -83,6 +83,19 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         This project, which led to a couple of publications, was my master's thesis project. I have deployed a couple of DRL algorithms such as A2C and PPO to address the caching problem in IoT networks where files have a limited lifetime. We improved the cache hit rate and energy consumption of the network significantly.
 
+  - title: Portfolio # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Loan Approval Web app
+        link: https://loan-approval-016b07cc77d7.herokuapp.com/
+        link_text: link to the app
+        sub_title: An streamlit app, with a trained XGBoost model to predict loan approval.
+        caption: Spring 2024
+        description: | # this will include new lines to allow paragraphs
+          * Deployment with containerization on Heroku.
+          * Streamlit app for the frontend and an XGBoost model to handle the prediction.
+
   - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
