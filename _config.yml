@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
   Currently, I lead ML efforts at Northbridge Financial, where I:
   * Deployed XGBoost and forecasting models that reduced underwriting loss and secured resource expansion ($1M+ impact).
   * Designed and productionized a GPT-powered automation pipeline for insurance claims processing.
-  *Built CI/CD pipelines with drift monitoring and automated retraining using Azure, Docker, and Hyperopt.
+  * Built CI/CD pipelines with drift monitoring and automated retraining using Azure, Docker, and Hyperopt.
 
   
   I enjoy bridging the gap between experimentation and reliable deployment — especially when working on applied NLP, LLMs, and decision intelligence systems. My recent work includes building scalable FastAPI services integrated with OpenAI, LangChain, and Pydantic, as well as designing high-throughput asynchronous systems optimized for Azure OpenAI’s token limits.
