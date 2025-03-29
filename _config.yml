@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Arian Naseh
-title: Data Scientist, Machine Learning Engineer
+title: Senior Machine Learning Engineer | GenAI & MLOps Specialist
 email: a.nasehzade@gmail.com
 website: ariannsz.github.io
 
@@ -56,36 +56,36 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2024.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm Arian, passionate about transforming complex data into impactful machine learning solutions. With four years of experience in finance and advertising, I specialize in building predictive models, managing data pipelines, and experimenting with cutting-edge LLM technologies. My journey has taken me from deep reinforcement learning research and IoT projects to practical applications in risk management, productivity tools, and targeted advertising.
+  I'm a Machine Learning Engineer with a strong foundation in predictive modeling, ML system design, and cloud-native AI development. Over the last few years, I’ve built and deployed real-time ML systems in production, led GenAI automation initiatives, and developed time-series models that directly influenced strategic decisions — all while championing best practices in MLOps and model governance.
 
-  I thrive on the challenge of bringing innovative ML ideas to life. Curious about my work? <b> Explore my portfolio, check out my articles on Medium, or connect with me on LinkedIn.</b>
+  Currently, I lead ML efforts at Northbridge Financial, where I:
+  * Deployed XGBoost and forecasting models that reduced underwriting loss and secured resource expansion ($1M+ impact).
+  * Designed and productionized a GPT-powered automation pipeline for insurance claims processing.
+  *Built CI/CD pipelines with drift monitoring and automated retraining using Azure, Docker, and Hyperopt.
 
-  If you're working on something exciting in the realm of data, I'd love to collaborate. Reach out on LinkedIn or email me at a.nasehzade@gmail.com!
+  
+  I enjoy bridging the gap between experimentation and reliable deployment — especially when working on applied NLP, LLMs, and decision intelligence systems. My recent work includes building scalable FastAPI services integrated with OpenAI, LangChain, and Pydantic, as well as designing high-throughput asynchronous systems optimized for Azure OpenAI’s token limits.
+  
+  I've also published peer-reviewed research in Deep Reinforcement Learning for IoT networks and am passionate about exploring how modern ML intersects with real-world systems.
 
-  Cheers!
+
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: A Deep Reinforcement Learning-Based Caching Strategy For IoT Networks With Transient Data
-  #       # link: github.com/sproogen
-  #       # link_text: Project Website
-  #       # additional_links:
-  #       #   - title:  sproogen/modern-resume-theme
-  #       #     icon: fab fa-github
-  #       #     url: github.com/sproogen/modern-resume-theme
-  #       # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #       #   icon: fab fa-github
-  #       #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         #TensorFlow   #Keras   #StableBaseline   #DRL   #openai #gym    #A2C #PPO   #numpy   #pandas   #matplotlib
-  #       description: | # this will include new lines to allow paragraphs
-  #         This project, which led to a couple of publications, was my master's thesis project. I have deployed a couple of DRL algorithms such as A2C and PPO to address the caching problem in IoT networks where files have a limited lifetime. We improved the cache hit rate and energy consumption of the network significantly.
-
   - title: Portfolio # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title:  Recruiter Assistant - Resume Screening with LLMs
+        link: https://loan-approval-016b07cc77d7.herokuapp.com/
+        # link_text: link to the app
+        sub_title: A web app.
+        # caption: Spring 2024
+        description: | # this will include new lines to allow paragraphs
+          A demo web app that leverages large language models to screen resumes against job descriptions and provide recruiter-style recommendations.
+          * Problem: Traditional resume screening is manual, slow, and inconsistent.
+          * Solution: Built a scalable app that takes in a resume and job description, uses OpenAI GPT to analyze alignment, and returns a recommendation with rationale.
+          * Tech Stack: Streamlit, LangChain, OpenAI GPT-3.5, Pydantic, Document Comparison, GitHub-based deployment
+
+        content:
       - layout: left
         title: Loan Approval
         link: https://loan-approval-016b07cc77d7.herokuapp.com/
