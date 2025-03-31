@@ -90,43 +90,50 @@ content:
         title: Loan Approval
         link: https://loan-approval-016b07cc77d7.herokuapp.com/
         # link_text: link to the app
-        sub_title: A web app.
         # caption: Spring 2024
         description: | # this will include new lines to allow paragraphs
-          * Developed a XGBoost model to predict loan approval based on customer data.
-          * Created a Streamlit app to allow users to input their data and interact with the model.
-          * Containerized the app using Docker.
-          * Deployed the app on Heroku cloud platform (deployment through container registry).
-          * Pydantic was used for data validation and FastAPI for the backend.
+          A web-based ML app that predicts whether a user would be approved for a loan based on their financial profile.
+          * Problem: Users and financial institutions need quick, explainable credit risk assessment tools.
+          * Solution: Developed a user-facing app that predicts loan eligibility using a trained XGBoost model and displays results instantly.
+          * Tech Stack: Streamlit, Python, XGBoost, Docker, Heroku, CI/CD pipeline, Medium Blognd.
+          * Fully containerized with deployment to cloud registry
+          * Includes user input validation and basic explainability
+          * Accompanied by detailed blog walkthroughs
+
 
   - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Data Scientist
+        title: Senior Machine Learning Engineer
         link: nbfc.com
         # link_text: boringcompany.com
         sub_title: Northbridge Financial Corporation
         caption: May. 2022 - Present
         description: | # this will include new lines to allow paragraphs
-          * Working alongside experienced developers taught me a lot about how to think and design products.
-          * Managing stakeholders, communicating, and securing their approvals was also a significant part of my job, which was new to me.
-          * From a technical perspective, I got to work with many new technologies and tools, mostly on the Azure cloud platform.
-          * I had the chance to develop ETL and inference pipelines on the Azure Machine Learning platform, create LLM-based applications, and a lot of other cool stuff.
-          
+          * Leading ML efforts focused on predictive modeling, LLM-based automation, and cloud-native infrastructure.
+          * Developed XGBoost classifiers and regressors to predict auto insurance losses, optimizing risk rankings and saving over $1M annually.
+          * Built ETL pipelines using Snowflake, AzureML, and Blob Storage for seamless data integration and transformation.
+          * Designed and deployed a scalable FastAPI service for automated First Notice of Loss (FNOL) claims processing using OpenAI GPT models and LangChain.
+          * Established CI/CD workflows with Docker and Azure Container Registry for production-grade deployments.
+          * Implemented model retraining pipelines with automated hyperparameter tuning using Hyperopt.
+          * Created forecasting models using AutoARIMA, CatBoost, TSB, Croston, and Prophet, securing a $500K annual resource expansion approval.
+          * Championed GitHub Copilot adoption to boost developer productivity through internal surveys and feedback.
+
 
       - layout: left
-        title: Software Developer
+        title: Machine Learning Consultant
         link: docma.ca
         sub_title: |
           Part Time.
           Docma Inc.
         caption: Jun. 2023 - Jan. 2024
         description: | # this will include new lines to allow paragraphs
-          * At Docma, I primarily focused on backend development, creating endpoints to enhance targeted advertising campaigns.
-          * Beyond coding, I helped the team refine their code repository for better long-term maintenance and easier onboarding of new members.
-          * I also dedicated significant time to debugging and designing experiments, ensuring our profiling algorithms were effective across different population segments. The goal was to maintain our data tools' speed, reliability, and precision.
-          
+          * Designed and optimized API endpoints for targeted advertising analytics, improving execution efficiency and data reliability.
+          * Enhanced audience segmentation models while preserving statistical fidelity, leading to improved marketing insights.
+          * Collaborated with the team to refine code repositories for better maintainability and streamlined onboarding processes.
+          * Worked on backend development to improve campaign performance and profiling algorithms.
+
           
       - layout: left
         title: Data Scientist
@@ -134,10 +141,10 @@ content:
         sub_title: TicTie Labs.
         caption: Jun. 2021 - May. 2022
         description: | # this will include new lines to allow paragraphs
-          * I had never imagined that my first official job would be at the intersection of technology and indoor farming!
-          * At TicTie Labs, I developed a machine learning model to predict plant growth, aiding operators in meeting their demand efficiently.
-          * Additionally, I created dashboards to visualize live monitoring data from the farms and alert operators about conditions that were out of range.
-          * I also proposed and developed an Android application to help operators capture data seamlessly without disrupting their workflow.
+          * Developed ML models to optimize plant growth prediction for indoor farming, improving yield forecasting accuracy.
+          * Created real-time dashboards using Python, SQL, and Power BI to monitor environmental metrics and alert operators to suboptimal conditions.
+          * Designed a data-capturing Android application to streamline data collection workflows for farm operators.
+          * Delivered actionable insights by visualizing sensor data and recommending adjustments for better productivity.
 
 
       - layout: left
@@ -146,10 +153,11 @@ content:
         sub_title: ETF Ocean
         caption: Jan. 2021 - Jan. 2022
         description: | # this will include new lines to allow paragraphs
-          * Fresh from completing my M.Sc. at York University, I co-founded ETF Ocean to democratize algorithmic investment strategies.
-          * I developed and implemented portfolio selection systems using Python, utilizing both technical and fundamental financial indicators.
-          * Additionally, I created modules to verify the accuracy of portfolio back-tests and designed ETL pipelines to manage large-scale historical financial data.
-          * I also played a key role in shaping our business model and leading our initial marketing campaigns.
+          * Co-founded a financial technology startup focused on democratizing algorithmic investment strategies.
+          * Built and deployed portfolio selection systems using Python, integrating technical and fundamental financial indicators.
+          * Designed ETL pipelines to handle large-scale historical financial data, ensuring accuracy and consistency.
+          * Developed modules for validating portfolio back-tests, enhancing strategy robustness and decision-making.
+          * Led marketing campaigns and contributed to shaping the initial business model.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -159,30 +167,35 @@ content:
         caption: 2019 - 2021
         sub_title: M.Sc Computer Science
         description: | # this will include new lines to allow paragraphs
-          During the M.Sc program, I  focused my studies on machine learning and data science. I took courses on machine learning theory, data mining, advance deep neural network, data visualization, and more. My thesis is about the application of Deep Reinforcement Learning in IoT networks.
+          Completed a Master of Science in Computer Engineering with a focus on Machine Learning and Data Science. 
+          Relevant coursework included Machine Learning Theory, Probabilistic Models, Data Analytics & Visualization, and Data Mining.
+          My thesis explored the application of Deep Reinforcement Learning in optimizing caching strategies for IoT networks, achieving significant reductions in energy consumption.
 
       - layout: left
         title: Amirkabir University of Technology
         caption: 2016 - 2018
         sub_title: M.Sc Digital Electronics
         description: | # this will include new lines to allow paragraphs
-          This program helped me to distance my studies from electrical engineering and pivot towards computer science. I took courses in bio-inspired artificial intelligence and statistical learning, which got me hooked on machine learning readings for the years to come.
+          Pivoted from Electrical Engineering to Computer Science, with a strong focus on Statistical Machine Learning and Bio-Inspired Artificial Intelligence. 
+          Completed courses in Computer Vision, Digital Signal Processing, and Advanced Computer Networks, building a foundation for my transition into machine learning research.
 
       - layout: left
         title: University of Guilan
         caption: 2011 - 2016
         sub_title: B.Sc Electrical Engineering - Electronics
         description: | # this will include new lines to allow paragraphs
-          I received my bachelor's degree from the University of Guilan, in the beautiful city of Rasht, Iran.  I did some TAship for electronics courses. For my final project, I designed an LED lamp driver and developed an android application to control the lamp's brightness.
+          Earned a Bachelor of Science in Electrical Engineering with a specialization in Electronics. 
+          Designed an LED lamp driver as part of my final project and developed an Android application to control the lamp's brightness.
+          Also served as a teaching assistant for multiple electronics courses, strengthening my foundation in hardware and embedded systems.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      * I love watching dog videos! Cats are fine too. :D
-      * I enjoy playing video games from time to time, especially FIFA during short breaks.
-      * I'm a bit too much into coffee! I love exploring new coffee shops and experimenting with different brewing methods.
-      * I currently live in downtown Toronto and enjoy long walks on sunny days.
-      * I'm not a fan of camping. I often joke about why we'd sleep in the woods when our ancestors worked so hard to build cities and houses! :D
+      * I have a deep appreciation for well-crafted coffee. From espresso to pour-over, I enjoy experimenting with different brewing techniques.
+      * I love exploring new coffee shops and seeking out hidden gems in Toronto's coffee scene.
+      * Dog videos are my guilty pleasure. While I like cats too, dogs just have a special place in my heart.
+      * Playing video games is one of my favorite ways to unwind. FIFA is a go-to choice for quick breaks.
+      * I'm currently living in downtown Toronto, where I enjoy taking long walks and discovering new places.
 
 #       Look at this cool image
 #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
