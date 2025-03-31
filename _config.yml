@@ -75,7 +75,7 @@ content:
     content:
       - layout: left
         title:  Recruiter Assistant - Resume Screening with LLMs
-        link: https://loan-approval-016b07cc77d7.herokuapp.com/
+        link: https://recruiter-assist-d6a30d8a234b.herokuapp.com/
         # link_text: link to the app
         sub_title: A web app.
         # caption: Spring 2024
